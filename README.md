@@ -1,4 +1,4 @@
-# Discussion 3/11/2025
+# Discussion 3/11/2025 (Continue developing)
 
 ## Key Points
 - The primary focus is the estimation and inference for $\beta(t)$. For the theory part, the key result is consistency and convergence rate of $\hat{\beta}(t)$.
