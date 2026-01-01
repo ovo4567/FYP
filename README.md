@@ -7,33 +7,6 @@
 - Try multiplier bootstrap to estimate the covariance function of $\hat{\beta}(t)$. If the simulation results are good, then study the consistency of the covariance estimator.
 - Find newer data on UCI.
 
-## Models
-
 ### Varying coefficient model for the outcome process $Y(t)$
 
-- Proportional intensity model for the conditional intensity function of $N(t)$ given $\overline{O}(t-)$
-
-
----
-
-## 3 Assumptions
-
----
-
-## 4 Methods
-
-### 4.1 Inverse intensity weighting and identifiability
-
-### 4.2 Estimation of weights
-
-### 4.3 Estimation of varying coefficient functions
-
-### 4.4 Inference on varying coefficient functions
-
----
-
-## 5 Asymptotic properties
-
----
-
-## References
+### Proportional intensity model for the conditional intensity function of $N(t)$ given $\overline{O}(t-)$
